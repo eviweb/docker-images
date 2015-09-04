@@ -49,5 +49,5 @@ function endup()
 function checkPHPVersion()
 {
     echo "Check for PHP version: $1"
-    docker run --name="${TEMPNAME}" "${TAG}" php --version | grep "$1" &> /dev/null
+    docker run --name="${TEMPNAME}" "${TAG}" php --version | grep "PHP $1" &> /dev/null
 }

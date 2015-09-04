@@ -19,3 +19,8 @@ Provides
 ### php56-cli
     - Ubuntu Trusty Minimal
     - php cli 5.6 from [Ondrej Sury's PPA for PHP 5.6](https://launchpad.net/~ondrej/+archive/ubuntu/php5-5.6)
+
+### php70-cli
+    - Ubuntu Trusty Minimal
+    - php cli 7.0 from [Ondrej Sury's PPA for PHP 7.0](https://launchpad.net/~ondrej/+archive/ubuntu/php-7.0)
+    

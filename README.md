@@ -9,6 +9,11 @@ where:
     - __ID__ is the identifier of the image to build [see Provides section](#provided-docker-files)
     - __TAG__ is the reference tag of the built image
 
+### Use from Docker Hub
+The docker images are publicly available from my [Docker Hub account](https://hub.docker.com/u/eviweb/), and are ready to use.    
+Simply run the docker pull command `docker pull eviweb/[ID]`, where:    
+- __ID__ is the identifier of the image to build [see Provides section](#provided-docker-files)
+
 ### Provided Docker Files
 #### php53-cli
 - Ubuntu Precise Minimal

@@ -15,3 +15,7 @@ Provides
 ### php55-cli
     - Ubuntu Trusty Minimal
     - php cli 5.5 from [Ondrej Sury's PPA for PHP 5.5](https://launchpad.net/~ondrej/+archive/ubuntu/php5)
+
+### php56-cli
+    - Ubuntu Trusty Minimal
+    - php cli 5.6 from [Ondrej Sury's PPA for PHP 5.6](https://launchpad.net/~ondrej/+archive/ubuntu/php5-5.6)

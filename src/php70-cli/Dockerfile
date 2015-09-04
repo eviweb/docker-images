@@ -8,4 +8,4 @@ RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E5267A6C
 RUN echo "deb http://ppa.launchpad.net/ondrej/php-7.0/ubuntu trusty main" |  tee /etc/apt/sources.list.d/php70.list
 RUN echo "deb-src http://ppa.launchpad.net/ondrej/php-7.0/ubuntu trusty main" |  tee -a /etc/apt/sources.list.d/php70.list
 RUN apt-get update && apt-get -yq install \
-    php5-cli
+    php7.0-cli
